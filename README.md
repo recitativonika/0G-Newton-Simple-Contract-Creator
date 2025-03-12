@@ -1,6 +1,3 @@
-# 0G-Newton-Simple-Contract-Creator
-Automate creating smart contract in 0G Newton Testnet
-
 # 0G Newton Simple Contract Creator
 Simple tool designed to automate creating smart contract in 0G Newton Testnet
 
